@@ -1,6 +1,8 @@
 # Opa, eu sou o Giovani!!
-<div align="center" width="100%"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovani-f&show_icons=true&bg_color=white&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-f&layout=compact&text_color=7159c1&title_color=7159c1&icon_color=7159c1&border_color=7159c1" />
-  
+<div align="center" width="100%">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovani-f&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-f&layout=compact&theme=radical" />
+</div>
 
 ## Para entrar em contato comigo:
 <div>
