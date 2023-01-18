@@ -1,8 +1,4 @@
 # Opa, eu sou o Giovani!!
-<div align="center" width="100%">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giovani-f&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovani-f&layout=compact&theme=radical" />
-</div>
 
 ## Para entrar em contato comigo:
 <div>
